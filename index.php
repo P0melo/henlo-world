@@ -1,3 +1,3 @@
 <?php
-include_once("HenloWorld.html");
+print_r($_GET["hub_challenge"]);
 ?>
